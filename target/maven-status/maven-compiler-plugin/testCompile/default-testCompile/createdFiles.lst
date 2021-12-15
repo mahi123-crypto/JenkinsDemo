@@ -1,0 +1,7 @@
+StepDefinitions\AddToCartStep.class
+StepDefinitions\RegistrationStep.class
+TestRunners\LoginTest.class
+TestRunners\AddToCart.class
+TestRunners\RegistrationTest.class
+com\ivl\CucumberProjectEcommerce\AppTest.class
+StepDefinitions\LoginStep.class
